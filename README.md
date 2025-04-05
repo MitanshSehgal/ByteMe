@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2fcefe40-77be-426f-8e67-a35610b73f90)# ByteMe - AI-Enhanced Learning Platform
+## ByteMe - AI-Enhanced Learning Platform
 
 
 
