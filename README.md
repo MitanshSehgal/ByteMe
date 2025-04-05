@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/2fcefe40-77be-426f-8e67-a35610b73f90)# ByteMe - AI-Enhanced Learning Platform
 
-![image](https://github.com/user-attachments/assets/b2d7edc5-de27-4f4c-a434-e114c854f2a0)
 
 
 ## Overview
